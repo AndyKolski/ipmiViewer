@@ -1,0 +1,2 @@
+# ipmiViewer
+ipmiViewer is a tool to connect to the remote control console function of the IPMI/BMC in some servers, specifically those which use a Java applet system that no longer works on modern computers. At the moment, the code is not great, and it probably won't even work on any system other than the specific Supermicro server I tested it on, so keep that in mind. 
